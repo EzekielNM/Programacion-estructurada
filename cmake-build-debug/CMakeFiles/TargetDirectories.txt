@@ -1,0 +1,3 @@
+C:/Users/Ezekiel/Documents/GitHub/Programacion-estructurada/cmake-build-debug/CMakeFiles/Programacion_estructurada.dir
+C:/Users/Ezekiel/Documents/GitHub/Programacion-estructurada/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ezekiel/Documents/GitHub/Programacion-estructurada/cmake-build-debug/CMakeFiles/rebuild_cache.dir
